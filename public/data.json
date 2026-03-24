@@ -1,816 +1,1152 @@
 {
-    "data":[
-        {
-            "id":1000,
-            "type":"calisthenic",
-            "image":"tricep.png",
-            "name":"triceps extension",
-            "level":2,
-            "part":"arm",
-            "execution":["Place hands on the corner of a table or seat of a chair and back into a proper position.","Keeping your bodu in a straight line with straight legs, straight arms and weight on toes, and the abdominals and glutes braced, lower your body by bending the elbows.", "Raise the body again using the triceps to extend the elbows."],
-            "muscles":{
-                "primary":" Triceps Brachii",
-                "secondary":["Rectus Abdominus", "Gluteus Maximus"]
-            },
-            "notes":""
-        },
-        {
-            "id":1001,
-            "type":"calisthenic",
-            "image":"bicep.png",
-            "name":"short lever inverted curl",
-            "level":"3",
-            "part":"arms",
-            "execution":["Lying on your back, set up under a sturdy table or tall chair with your hands grasping the outter ledges, palms facing each other.","With your torso and legs in a straight line, neck in neutral position, knees ebnt at 90 degrees, weight on the heels, and the abdominals and glutes braced, raise your bodu by bending the elbows.", "Lower to starting position under control, moving mostly at the elbows and not the shoulder."],
-            "muscles":{
-                "primary":"Bicep Brachii",
-                "secondary":["Brachialis", "Rectus Adominis", "luteus Maximus"]
-            },
-            "notes":""
-        },
-        {
-            "id":1002,
-            "type":"calisthenic",
-            "image":"bicep.png",
-            "name":"bicep chin up",
-            "level":"3",
-            "part":"arms",
-            "execution":["Begin in a full stretch position, hanging from a secure rafter or chin up bar with arms in a surpinated grip, palms facing you. The toes will be off the ground and the knees can be bent.", "Pull the body over the rafter or chin up bar to sternum height while keeping the core stable","Lowering the body under control making sure you come all the way down."],
-            "muscles":{
-                "primary":"Bicep Brachii",
-                "secondary":["Brachialis", "Rectus Adominis", "Gluteus Maximus"]
-            },
-            "notes":""
-        },
-        {
-            "id":1003,
-            "type":"calisthenic",
-            "image":"tricep.png",
-            "name":"narrow tricep push up",
-            "level":"3",
-            "part":"arms",
-            "execution":["Lie face down with the hands positioned whoulder width apart and the elbows tucked into the body.","With the feet together and the core stable press the body up.","Lowering the body until the chest touches the floor."],
-            "muscles":{
-                "primary":["Tricep Brachii", "Pectoralis Major", "Anterior Deltoid"],
-                "secondary":["Upper and lower Trapezius","Serratus Anterior","Rectus Abdominus"]
-            },
-            "notes":""
-        },
-        {
-            "id":1004,
-            "type":"calisthenic",
-            "image":"tricep.png",
-            "name":"three point bench dip",
-            "level":"2",
-            "part":"arms",
-            "execution":["Set up three chair so that your feet are resting on one and you body is centered between the other two.","With your palms on the end of the two chairs, fingers forward, and your torso upright and legs in a straight line.", "Push your body up back to starting position"],
-            "muscles":{
-                "primary":"Tricep Brachii",
-                "secondary":["Pectoralis Major", "Anterior Deltoid"] 
-            },
-                "notes":""
-        },
-        {
-            "id":1100,
-            "type":"calisthenic",
-            "image":"neck.png",
-            "name":"wall anterior neck isohold",
-            "level":"2",
-            "part":"neck-shoulder",
-            "execution":["Place a folded towel on the forehead.", "From a standing position with arms at the sides, lean against the wall makign sure to keep the body in a straight line.", "Hold for desire amount of time."],
-            "muscles":{
-                "primary":["Sternocleidomastoid"],
-                "secondary":["Scalenes"]
-            },
-            "notes":""
-        },
-        {
-            "id":1101,
-            "type":"calisthenic",
-            "image":"neck.png",
-            "name":"manual neck holds",
-            "level":"1",
-            "part":"neck-shoulder",
-            "execution":["From a seated position with the elbows braced on the thighs, placed the hands infront of the head and aplly isometric resistence for 10 seconds.", "Place the hands on the back of the head and hold for another 10 seconds while applying manual resistance.", "Finish with a lateral isohold on each side by applying manual resistance for 10 seconds."],
-            "muscles":{
-                "primary":["Sternocleidomastoid", "Scalenes", "Trapezius", "Cervical Extensors"],
-                "secondary":["Rectus Abdominus.", "External Obliques", "Erector Spinea"]
-            },
-            "notes":""
-        },
-        {
-            "id":1102,
-            "type":"calisthenic",
-            "image":"shoulder.png",
-            "name":"push back",
-            "level":"2",
-            "part":"neck-shoulder",
-            "execution":["Stand with feet wider than hip width and set up as up would in the bottom of a push up position, but keep your hips high.", "Push up and back while crouching at the hips, keeping the hips higher than the shoulders.", "Return to startign position"],
-            "muscles":{
-                "primary":["Anterior Deltion", "Lateral Deltoid", "Upper Pectoralis Major", "Triceps Brachii"],
-                "secondary":["Upper and Lower Trapezius", "Serratus Anterior", "Middle and Lower Pectoralis Major"]
-            },
-            "notes":""
-        },
-        {
-            "id":1103,
-            "type":"calisthenic",
-            "image":"shoulder.png",
-            "name":"feet elevated pike push up",
-            "level":"3",
-            "part":"neck-shoulder",
-            "execution":["Place ypur hands on the floor just wider than shoulder width and your feet ontop of a sturdy chair, box, or weight bench.", "Pike into an 'L' position by walking your hands back while flexing the hips and raising your buttocks toward the ceiling, then lower your body towards the floor by bending your elbows.", "When your head reaches the ground, reverse the motion to starting pike position by locking out the arms and pushing the body high and away from the floor"],
-            "muscles":{
-                "primary":["Deltoids", "Triceps Brachii"],
-                "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
-            },
-            "notes":""
-        },
-        {
-            "id":1104,
-            "type":"calisthenic",
-            "image":"shoulder.png",
-            "name":"rear deltoid raise",
-            "level":"2",
-            "part":"neck-shoulder",
-            "execution":["From a standing position with a towel wrapped around a pole, grab the end of the towel and lean back into position.", "Keeping the body in a straight line, raise your body by bringing the arms out to the side.", "Control the decent back to starting position."],
-            "muscles":{
-                "primary":["Posterior Deltoid"],
-                "secondary":["Lateral Deltoid", "Middle Trapezius", "Rhomboid Major"]
-            },
-            "notes":""
-        },
-        {
-            "id":1105,
-            "type":"calisthenic",
-            "image":"shoulder.png",
-            "name":"ytwl",
-            "level":"1",
-            "part":"neck-shoulder",
-            "execution":["From a standing position, bend at hips past a 45 degree torse angle, maintaining a neutral spine while sitting back and stretching the hamstrings.", "Perform 10 dynamic 'Y' motions by forming a 'Y' with the arms, returning to starting position after each repitition. Switch to 10 'T' to motions with the arms followed by 10 'W' motions.", "Transition into 10 'L' motions by holding the arms straight out with the elbows bent at 90 degrees and rotating at the shoulder joint so that the forearms move from vertical to the ground to paraelle to the ground."],
-            "muscles":{
-                "primary":["Lower Trpezius", "Middle Trapezius", "Rotator Cuff Musculature", "Posterior Deltoid"],
-                "secondary":["Hamstrings", "Gluteus Maximus, Biceps"]
-            },
-            "notes":""
-        },
-        {
-            "id":1106,
-            "type":"calisthenic",
-            "image":"shoulder.png",
-            "name":"wall hand stand push up",
-            "level":"4",
-            "part":"neck-shoulder",
-            "execution":["Starting on your hand and knees, place your feet against the wall and walk your way up into a handstand position so that your toes end up against the wall, your body is relatively vertical in a straight line, and you are facing the wall.", "Lower the body slowly by bending the elbows until the head reaches the ground.", "Reverse the movement and raise the body back to starting position."],
-            "muscles":{
-                "primary":["Deltoids", "Tricep Brachii"],
-                "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
-            },
-            "notes":""
-        },
-        {
-            "id":1200,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1201,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"elevated push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1202,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"torso elevated push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1203,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"side to side push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1204,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"one arm push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1205,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"clapping push up",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1206,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"chest dip",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1207,
-            "type":"calisthenic",
-            "image":"chest.png",
-            "name":"sliding fly",
-            "level":"",
-            "part":"chest",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1300,
-            "type":"calisthenic",
-            "image":"core.png",
-            "name":"crunch",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1301,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"superman",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1302,
-            "type":"calisthenic",
-            "image":"core3.png",
-            "name":"bicycle",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1303,
-            "type":"calisthenic",
-            "image":"core4.png",
-            "name":"seated knee up",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1304,
-            "type":"calisthenic",
-            "image":"core4.png",
-            "name":"bent knee single leg extension",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1305,
-            "type":"calisthenic",
-            "image":"core4.png",
-            "name":"double leg raise",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1306,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"sit up",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1307,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"front plank",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1309,
-            "type":"calisthenic",
-            "image":"core3.png",
-            "name":"oblique raise",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1310,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"rkp plank",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1311,
-            "type":"calisthenic",
-            "image":"core3.png",
-            "name":"side plank",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1312,
-            "type":"calisthenic",
-            "image":"core4.png",
-            "name":"hanging leg raise",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1313,
-            "type":"calisthenic",
-            "image":"core3.png",
-            "name":"oblique hanging leg raise",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1314,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"roll out",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1315,
-            "type":"calisthenic",
-            "image":"core2.png",
-            "name":"sliding body saw",
-            "level":"",
-            "part":"core",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1400,
-            "type":"calisthenic",
-            "image":"back.png",
-            "name":"pull up",
-            "level":"",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1401,
-            "type":"calisthenic",
-            "image":"back.png",
-            "name":"side to sidepull up",
-            "level":"",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1402,
-            "type":"calisthenic",
-            "image":"back3.png",
-            "name":"towel pull up",
-            "level":"",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1403,
-            "type":"calisthenic",
-            "image":"back.png",
-            "name":"modified inverted row",
-            "level":"2",
-            "part":"back",
-            "execution":["Grasp the side of a sturdy table"],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1404,
-            "type":"calisthenic",
-            "image":"back.png",
-            "name":"side to side inverted row",
-            "level":"2",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1405,
-            "type":"calisthenic",
-            "image":"back3.png",
-            "name":"scapular shrug",
-            "level":"2",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1406,
-            "type":"calisthenic",
-            "image":"back3.png",
-            "name":"towel face pull",
-            "level":"",
-            "part":"back",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1500,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"sumo squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1501,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"wall squat isohold",
-            "level":"1",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1502,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"box squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1503,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"full squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1504,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"sissy squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1505,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"single leg box squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1506,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"skater squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1507,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"pistol squat",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1508,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"static lunge",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1509,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"reverse lunge",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1510,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"sliding lunge",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1511,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"step up",
-            "level":"",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1512,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"bulgarian split squat",
-            "level":"2",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1513,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"bulgarian split squat",
-            "level":"2",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1514,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"single leg romanian deadlift",
-            "level":"2",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1515,
-            "type":"calisthenic",
-            "image":"thighs.png",
-            "name":"single leg romanian deadlift",
-            "level":"2",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        }
-    ]
+ "data":[
+ {
+ "id":1000,
+ "type":"calisthenic",
+ "image":"tricep.png",
+ "name":"triceps extension",
+ "level":2,
+ "part":"arm",
+ "execution":["Place hands on the coner of a tanle or seat of a chair and back into a proper position.","Keeping your bodu in a straight line with straight legs, straight arms and weight on toes, and the abdominals and glutes braced, lower your body by bending the elbows.", "Raise the body again using the triceps to extend the elbows."],
+ "muscles":{
+ "primary":" Triceps Brachii",
+ "secondary":["Rectus Abdominus", "Gluteus Maximus"]
+ },
+ "notes":""
+ },
+ {
+ "id":1001,
+ "type":"calisthenic",
+ "image":"bicep.png",
+ "name":"short lever inverted curl",
+ "level":"3",
+ "part":"arms",
+ "execution":["Lying on your back, set up under a sturdy table or tall chair with your hands grasping the outter ledges, palms facing each other.","With your torso and legs in a straight line, neck in neutral position, knees ebnt at 90 degrees, weight on the heels, and the abdominals and glutes braced, raise your bodu by bending the elbows.", "Lower to starting position under control, moving mostly at the elbows and not the shoulder."],
+ "muscles":{
+ "primary":"Bicep Brachii",
+ "secondary":["Brachialis", "Rectus Adominis", "luteus Maximus"]
+ },
+ "notes":""
+ },
+ {
+ "id":1002,
+ "type":"calisthenic",
+ "image":"bicep.png",
+ "name":"bicep chin up",
+ "level":"3",
+ "part":"arms",
+ "execution":["Begin in a full stretch position, hanging from a secure rafter or chin up bar with arms in a surpinated grip, palms facing you. The toes will be off the ground and the knees can be bent.", "Pull the body over the rafter or chin up bar to sternum height while keeping the core stable","Lowering the body under control making sure you come all the way down."],
+ "muscles":{
+ "primary":"Bicep Brachii",
+ "secondary":["Brachialis", "Rectus Adominis", "Gluteus Maximus"]
+ },
+ "notes":""
+ },
+ {
+ "id":1003,
+ "type":"calisthenic",
+ "image":"tricep.png",
+ "name":"narrow tricep push up",
+ "level":"3",
+ "part":"arms",
+ "execution":["Lie face down with the hands positioned whoulder width apart and the elbows tucked into the body.","With the feet together and the core stable press the body up.","Lowering the body until the chest touches the floor."],
+ "muscles":{
+ "primary":["Tricep Brachii", "Pectoralis Major", "Anterior Deltoid"],
+ "secondary":["Upper and lower Trapezius","Serratus Anterior","Rectus Abdominus"]
+ },
+ "notes":""
+ },
+ {
+ "id":1004,
+ "type":"calisthenic",
+ "image":"tricep.png",
+ "name":"three point bench dip",
+ "level":"2",
+ "part":"arms",
+ "execution":["Set up three chair so that your feet are resting on one and you body is centered between the other two.","With your palms on the end of the two chairs, fingers forward, and your torso upright and legs in a straight line.", "Push your body up back to starting position"],
+ "muscles":{
+ "primary":"Tricep Brachii",
+ "secondary":["Pectoralis Major", "Anterior Deltoid"] 
+ },
+ "notes":""
+ },
+ {
+ "id":1100,
+ "type":"calisthenic",
+ "image":"neck.png",
+ "name":"wall anterior neck isohold",
+ "level":"2",
+ "part":"neck-shoulder",
+ "execution":["Place a folded towel on the forehead.", "From a standing position with arms at the sides, lean against the wall makign sure to keep the body in a straight line.", "Hold for desire amount of time."],
+ "muscles":{
+ "primary":["Sternocleidomastoid"],
+ "secondary":["Scalenes"]
+ },
+ "notes":""
+ },
+ {
+ "id":1101,
+ "type":"calisthenic",
+ "image":"neck.png",
+ "name":"manual neck holds",
+ "level":"1",
+ "part":"neck-shoulder",
+ "execution":["From a seated position with the elbows braced on the thighs, placed the hands infront of the head and aplly isometric resistence for 10 seconds.", "Place the hands on the back of the head and hold for another 10 seconds while applying manual resistance.", "Finish with a lateral isohold on each side by applying manual resistance for 10 seconds."],
+ "muscles":{
+ "primary":["Sternocleidomastoid", "Scalenes", "Trapezius", "Cervical Extensors"],
+ "secondary":["Rectus Abdominus.", "External Obliques", "Erector Spinea"]
+ },
+ "notes":""
+ },
+ {
+ "id":1102,
+ "type":"calisthenic",
+ "image":"shoulder.png",
+ "name":"push back",
+ "level":"2",
+ "part":"neck-shoulder",
+ "execution":["Stand with feet wider than hip width and set up as up would in the bottom of a push up position, but keep your hips high.", "Push up and back while crouching at the hips, keeping the hips higher than the shoulders.", "Return to startign position"],
+ "muscles":{
+ "primary":["Anterior Deltion", "Lateral Deltoid", "Upper Pectoralis Major", "Triceps Brachii"],
+ "secondary":["Upper and Lower Trapezius", "Serratus Anterior", "Middle and Lower Pectoralis Major"]
+ },
+ "notes":""
+ },
+ {
+ "id":1103,
+ "type":"calisthenic",
+ "image":"shoulder.png",
+ "name":"feet elevated pike push up",
+ "level":"3",
+ "part":"neck-shoulder",
+ "execution":["Place ypur hands on the floor just wider than shoulder width and your feet ontop of a sturdy chair, box, or weight bench.", "Pike into an 'L' position by walking your hands back while flexing the hips and raising your buttocks toward the ceiling, then lower your body towards the floor by bending your elbows.", "When your head reaches the ground, reverse the motion to starting pike position by locking out the arms and pushing the body high and away from the floor"],
+ "muscles":{
+ "primary":["Deltoids", "Triceps Brachii"],
+ "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
+ },
+ "notes":""
+ },
+ {
+ "id":1104,
+ "type":"calisthenic",
+ "image":"shoulder.png",
+ "name":"rear deltoid raise",
+ "level":"2",
+ "part":"neck-shoulder",
+ "execution":["From a standing position with a towel wrapped around a pole, grab the end of the towel and lean back into position.", "Keeping the body in a straight line, raise your body by bringing the arms out to the side.", "Control the decent back to starting position."],
+ "muscles":{
+ "primary":["Posterior Deltoid"],
+ "secondary":["Lateral Deltoid", "Middle Trapezius", "Rhomboid Major"]
+ },
+ "notes":""
+ },
+ {
+ "id":1105,
+ "type":"calisthenic",
+ "image":"shoulder.png",
+ "name":"ytwl",
+ "level":"1",
+ "part":"neck-shoulder",
+ "execution":["From a standing position, bend at hips past a 45 degree torse angle, maintaining a neutral spine while sitting back and stretching the hamstrings.", "Perform 10 dynamic 'Y' motions by forming a 'Y' with the arms, returning to starting position after each repitition. Switch to 10 'T' to motions with the arms followed by 10 'W' motions.", "Transition into 10 'L' motions by holding the arms straight out with the elbows bent at 90 degrees and rotating at the shoulder joint so that the forearms move from vertical to the ground to paraelle to the ground."],
+ "muscles":{
+ "primary":["Lower Trpezius", "Middle Trapezius", "Rotator Cuff Musculature", "Posterior Deltoid"],
+ "secondary":["Hamstrings", "Gluteus Maximus, Biceps"]
+ },
+ "notes":""
+ },
+ {
+ "id":1106,
+ "type":"calisthenic",
+ "image":"shoulder.png",
+ "name":"wall hand stand push up",
+ "level":"4",
+ "part":"neck-shoulder",
+ "execution":["Starting on your hand and knees, place your feet against the wall and walk your way up into a handstand position so that your toes end up against the wall, your body is relatively vertical in a straight line, and you are facing the wall.", "Lower the body slowly by bending the elbows until the head reaches the ground.", "Reverse the movement and raise the body back to starting position."],
+ "muscles":{
+ "primary":["Deltoids", "Tricep Brachii"],
+ "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
+ },
+ "notes":""
+ },
+ {
+ "id":1200,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1201,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"elevated push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1202,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"torso elevated push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1203,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"side to side push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1204,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"one arm push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1205,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"clapping push up",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1206,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"chest dip",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1207,
+ "type":"calisthenic",
+ "image":"chest.png",
+ "name":"sliding fly",
+ "level":"",
+ "part":"chest",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1300,
+ "type":"calisthenic",
+ "image":"core.png",
+ "name":"crunch",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1301,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"superman",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1302,
+ "type":"calisthenic",
+ "image":"core3.png",
+ "name":"bicycle",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1303,
+ "type":"calisthenic",
+ "image":"core4.png",
+ "name":"seated knee up",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1304,
+ "type":"calisthenic",
+ "image":"core4.png",
+ "name":"bent knee single leg extension",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1305,
+ "type":"calisthenic",
+ "image":"core4.png",
+ "name":"double leg raise",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1306,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"sit up",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1307,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"front plank",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1309,
+ "type":"calisthenic",
+ "image":"core3.png",
+ "name":"oblique raise",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1310,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"rkp plank",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1311,
+ "type":"calisthenic",
+ "image":"core3.png",
+ "name":"side plank",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1312,
+ "type":"calisthenic",
+ "image":"core4.png",
+ "name":"hanging leg raise",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1313,
+ "type":"calisthenic",
+ "image":"core3.png",
+ "name":"oblique hanging leg raise",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1314,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"roll out",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1315,
+ "type":"calisthenic",
+ "image":"core2.png",
+ "name":"sliding body saw",
+ "level":"",
+ "part":"core",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1400,
+ "type":"calisthenic",
+ "image":"back.png",
+ "name":"pull up",
+ "level":"",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1401,
+ "type":"calisthenic",
+ "image":"back.png",
+ "name":"side to sidepull up",
+ "level":"",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1402,
+ "type":"calisthenic",
+ "image":"back3.png",
+ "name":"towel pull up",
+ "level":"",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1403,
+ "type":"calisthenic",
+ "image":"back.png",
+ "name":"modified inverted row",
+ "level":"2",
+ "part":"back",
+ "execution":["Grasp the side of a sturdy table"],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1404,
+ "type":"calisthenic",
+ "image":"back.png",
+ "name":"side to side inverted row",
+ "level":"2",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1405,
+ "type":"calisthenic",
+ "image":"back3.png",
+ "name":"scapular shrug",
+ "level":"2",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1406,
+ "type":"calisthenic",
+ "image":"back3.png",
+ "name":"towel face pull",
+ "level":"",
+ "part":"back",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1500,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"sumo squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1501,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"wall squat isohold",
+ "level":"1",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1502,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"box squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1503,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"full squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1504,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"sissy squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1505,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"single leg box squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1506,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"skater squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1507,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"pistol squat",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1508,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"static lunge",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1509,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"reverse lunge",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1510,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"sliding lunge",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1511,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"step up",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1512,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"bulgarian split squat",
+ "level":"2",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1513,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"bulgarian split squat",
+ "level":"2",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1514,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"single leg romanian deadlift",
+ "level":"2",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1515,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"single leg romanian deadlift",
+ "level":"2",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1516,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"back extension",
+ "level":"1",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1517,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"Reverse Hyper Extension",
+ "level":"2",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1518,
+ "type":"calisthenic",
+ "image":"thighs.png",
+ "name":"sliding leg curl",
+ "level":"",
+ "part":"thighs",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1600,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":"glute bridge",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1601,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":" elevated hip thrust",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1602,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":"shoulder and feet elevated hip thrust",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1603,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":"donkey kick",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1604,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":"side lying clam",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1605,
+ "type":"calisthenic",
+ "image":"glutes.png",
+ "name":"side lying hip raise",
+ "level":"",
+ "part":"glutes",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1700,
+ "type":"calisthenic",
+ "image":"calves.png",
+ "name":"elevated calf raise",
+ "level":"",
+ "part":"calves",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1701,
+ "type":"calisthenic",
+ "image":"calves.png",
+ "name":"squat calf raise",
+ "level":"",
+ "part":"calves",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1702,
+ "type":"calisthenic",
+ "image":"calves.png",
+ "name":"stiff leg ankle hop",
+ "level":"",
+ "part":"calves",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1800,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"jumping jack",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1801,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"burpee",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1802,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"push up with extension",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1803,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"towel row isohold with glute march",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1804,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"sit up burpee",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1805,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"mountain climbers",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1806,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"bear crawl",
+ "level":"2",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1807,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"jumping muscle up",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1808,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"crocodile crawl",
+ "level":"3",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":1809,
+ "type":"calisthenic",
+ "image":"fire.png",
+ "name":"crab walk",
+ "level":"",
+ "part":"full",
+ "execution":[""],
+ "muscles":{
+ "primary":[""],
+ "secondary":[""]
+ },
+ "notes":""
+ },
+ {
+ "id":2000,
+ "type":"mobility",
+ "image":"mobility.png",
+ "name":"mobility one",
+ "level":"",
+ "part":"",
+ "execution":"",
+ "muscles":{
+ "primary":"",
+ "secondary":""
+ },
+ "notes":""
+ },
+ {
+ "id":2001,
+ "type":"mobility",
+ "image":"mobility.png",
+ "name":"mobility two",
+ "level":"",
+ "part":"",
+ "execution":"",
+ "muscles":{
+ "primary":"",
+ "secondary":""
+ },
+ "notes":""
+ }
+ ]
 }
