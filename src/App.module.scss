@@ -1,0 +1,16 @@
+body{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    //background-color: rgb(177, 177, 249);
+    width: 430px;
+    margin: auto;
+    background-color: whitesmoke;
+    //background-image: url('../public/goupfitness.jpg');
+    //background-size: 100% 100%;
+    //background-blend-mode:luminosity;
+    color: black;
+}
+::-webkit-scrollbar {
+    display: none;
+}

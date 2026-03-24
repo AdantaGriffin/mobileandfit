@@ -1,0 +1,65 @@
+.workoutContainer{
+    height: 80vh;
+    background: linear-gradient(rgb(48, 2, 231), rgb(87, 51, 227));
+    color: white;
+    font: {
+        weight: 700;
+        size: 1.2em;
+    }
+
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        h2{
+            font-size: 2em;
+        }
+    }
+    .workoutListContainer{
+        height: 99%;
+        display: grid;
+        grid-template-rows: 10% 10% 70% 10%;
+        padding: 0 5px;
+        box-shadow: 1px 1px 10px rgb(87, 87, 88);
+        border-radius: 20px;
+        .quote{
+            text-align: center;
+            align-content: center;
+        }
+    }
+    .workoutList{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        align-content: center;
+        li{
+            margin: 5px;
+            display: flex;
+            justify-content: space-between;
+            border: 1px solid white;
+            align-items: center;
+            width: 100%;
+            .workoutListButtons{
+                align-items: center;
+            }
+        }
+    }
+    .workoutButtons{
+        display: flex;
+        justify-content: space-around;
+        height: 60%;
+        border-radius: 20px;
+        button{
+            width: 100px;
+            border-radius: 20px;
+            border: none;
+            box-shadow: 1px 1px 10px rgb(87, 87, 88);
+            padding: 5px;
+            img{
+                width: 50%;
+                height: 90%;
+            }
+        }
+    }
+}

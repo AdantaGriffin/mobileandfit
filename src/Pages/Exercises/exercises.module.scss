@@ -1,0 +1,99 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.exercises{
+    animation: fadeIn 0.4s ease;
+    height: 80vh;
+    display: grid;
+    grid-template-rows: 15% 10% 70%;
+    .search{
+        text-align: center;
+        input{
+            width: 85%;
+            height: 100%;
+            border-radius: 20px;
+            border: 1px solid lightgrey;
+            padding: 0 20px;
+        }
+    }
+    .searchNav{
+        background-color: whitesmoke;
+        position: relative;
+        top: 10px;
+        background: rgba(255, 255, 255, 0.1);
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        width: 100%;
+        height: 50px;
+        align-content: center;
+        &::-webkit-scrollbar {
+          display: none;
+        }
+        ul{
+            min-width: max-content;
+            gap: 10px;
+            display: flex;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            button{
+                text-align: center;
+                text-decoration: none;
+                border: 1px solid lightgrey;
+                border-radius: 20px;
+                padding: 5px 10px;
+                background-color: white;
+                color: black;
+            }
+            .active{
+              background: linear-gradient(rgb(48, 2, 231), rgb(87, 51, 227));
+              color: whitesmoke;
+            }
+
+            .inactive{
+              background-color: white;
+              color: black;
+            }
+        }
+    }
+    .exercisesList{
+        height: 100%;
+        text-align: center;
+        overflow-x: scroll;
+        padding-top: 20px;
+        &::-webkit-scrollbar {
+          display: none;
+        }
+        ul{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            li{
+                border: 1px solid grey;
+                border-radius: 20px;
+                height: 60px;
+                margin-bottom: 5px;
+                align-content: center;
+                background: linear-gradient(rgb(48, 2, 231), rgb(87, 51, 227));
+                box-shadow: 1px 1px 10px rgb(87, 87, 88);
+                a{
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    width: 80%;
+                    margin: auto;
+                    align-items: center;
+                    color: white;
+                    text-decoration: none;
+                    padding: 0 10px;
+                }
+            }
+        }
+    }
+}
