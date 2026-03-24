@@ -38,7 +38,7 @@ function Workout(){
     }
     const rep = (e) => {
         setRepCount(prev => prev + Number(e.target.value));
-        e.target.style.backgroundColor = "green";
+        e.target.style.border = "2px solid green";
     }
     return(
         <>
