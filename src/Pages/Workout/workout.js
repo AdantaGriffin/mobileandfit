@@ -5,7 +5,7 @@ import { useApi } from '../../Components/Api/api';
 
 function Workout(){
     const navigate = useNavigate();
-    const {setCount, repCount, setSetCount, setRepCount, routineList, minutes, setMinutes, timer, setTimer, setTimeSum} = useApi();
+    const {setCount, repCount, setSetCount, setRepCount, routineList, setMinutes, timer, setTimer, setTimeSum} = useApi();
     const {i} = useParams();
     //console.log(routineList[i].exercise)
     const [on, setOn] = useState(false);
@@ -38,10 +38,6 @@ function Workout(){
     }
     const rep = (e) => {
         setRepCount(prev => prev + Number(e.target.value));
-        e.target.style.backgroundColor = "green";
-    }
-    const set = (e) => {
-        setSetCount(prev => prev + 1);
         e.target.style.backgroundColor = "green";
     }
     return(
