@@ -1,0 +1,27 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.history{
+    animation: fadeIn .4s ease;
+    height: 80vh;
+    align-content: center;
+    .historyResults{
+      display: flex;
+      justify-content: space-between;
+      height: 100px;
+      align-items: center;
+      color: white;
+      padding: 0 5px;
+      border-radius: 20px;
+      background: linear-gradient(rgb(48, 2, 231), rgb(87, 51, 227));
+      box-shadow: 1px 1px 10px rgb(87, 87, 88);
+      height: 30% ;
+    }
+}
